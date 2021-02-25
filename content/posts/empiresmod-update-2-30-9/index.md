@@ -19,12 +19,12 @@ Changelog:
 
 ## Bug fixes
 
-- Fixed a bug causing localization to fail for vehicle kill-assists strings.
+- Fixed a bug causing localization to fail for vehicle kill-assist strings.
 - Fixed a bug causing simple/critical kill-assists to record the wrong damage amount and potentially award the critical assist to the wrong player.
 - Fixed a bug where player's would get stuck in ammo/health crates spawned by capturing flags.
 	- Crates will now spawn when the spawn location is free from player obstruction.
-- Mortar now uses HL2's AR2 reload animation in third person. (It's the closest animation available without additional arist work)
-	- Previously it had no animation so you couldn't tell when people were reloading.
+- Mortar now uses HL2's AR2 reload animation in third person. (It's the closest animation available without additional artist work)
+	- Previously the mortar had no 3rd person reload animation so you couldn't tell when people were reloading.
 	- It has also been requested that the lines on the bottom/left of the mortar crosshair display be removed, therefore has now been removed.
 - Fixed an issue with the glowing mine outline effect causing the screen to go darker. (This was a side effect of the HDR auto-exposure on some maps scaling the lighting down dramatically)
 - Fixed a missing texture caused by moving tool textures. "common/tools/toolsblack"
