@@ -40,8 +40,7 @@ Changelog:
 	
 ### Vehicle Weapons
 
-#### Machine Guns
-
+- Machine Guns
 	- Standard Machine Gun
 		- Decreased Heat from 1 to 0.8
 		- Increased Reload Time from 3.5 to 4
@@ -76,8 +75,7 @@ Changelog:
 		- Increased Total Ammo Clips from 3 to 5
 		- Decreased Projectile Spread from 0.03 to 0.0275
 		
-#### Cannons
-
+- Cannons
 	- Standard Cannon
 		- Reduced Heat from 10 to 9
 	- Ranged Cannon
@@ -102,8 +100,7 @@ Changelog:
 		- Decreased Infantry Bio Time from 7 to 5
 		- Decreased Infantry Bio Interval from 1 to 0.5
 		
-#### Missiles Launchers
-
+- Missiles Launchers
 	- Standard Missile Launcher
 		- Increased Weight from 30 to 40
 		- Decreased Cycle Time from 1.2 to 1.1
