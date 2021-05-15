@@ -85,18 +85,18 @@ Changelog:
 - New CVAR has been added - "emp_sv_debug_visualize_explosions", this will allow you to visualize some of the explosion parameters (Radius, offset radius, explosion parameters etc)
 
 
-### Changes to RPG/Mortar
+### Changes to RPG & Mortar
 
 - Tidied up the code for both weapons, condensed some statements and shortened code where possible.
 - Removed unused functions from mortar/rpg. (Some of these were remnants from HL2 like RPG laser effect)
-#### RPG
+### Changes to RPG
 
 - Fixed a bug with the holster function not cancelling the missile guidance mode. (Allowing players to continue guiding with a different weapon out)
 - Removed a traceline raycast that was being fired every time the RPG was fired but the result was never being used. (Very small optimization)
 - Reload now uses prediction/networking and the timings should be more reliable in general.
 - There is a 0.5s reload delay after firing. This delay is only applied right after firing and will not affect when you can reload after guiding a missile.
 
-#### Mortar
+### Changes to Mortar
 
 - Mortar can no longer fire backwards, the firing angle offset (16.4°) eases out once the player aims up too far.
 - Removed the right click function. This opened the "artillery map", but this feature was unfinished and has remained in a broken state for a number of years.
@@ -130,7 +130,7 @@ Changelog:
 
 ### Vehicle Weapons
 
-#### Missile Launchers
+### Missile Launchers
 
 - Homing Missile Launchers
 	- Increased Missile Range from 6000 to 8000
@@ -149,7 +149,7 @@ Changelog:
 - Nuclear Missile Launcher
 	- Reduced Projectie Spread from 1.25 to 1
 	
-#### Machine Guns
+### Machine Guns
 
 - Depleted Uranium Machine Gun
 	- Reduced Cost from 70 to 60
@@ -166,7 +166,7 @@ Changelog:
 - High-Explosive Heavy Machine Gun
 	- Reduced Cost from 125 to 100
 
-#### Cannons
+### Cannons
 
 - Standard Cannon
 	- Increased Explosion Radius from 275 to 300
@@ -177,7 +177,7 @@ Changelog:
 - High-Explosive Cannon
 	- Decreased Projectile Spread from 1 to 0.5
 
-#### Grenades
+### Grenades
 
 - Explosion Damage Falloff Offset of 20% for all grenades
 
