@@ -68,7 +68,7 @@ Changelog:
 ### Rank Points
 - Reduced the amount of wages provided from repairing 100 units from 5 to 3
 - Reduced the amount of sabotages required to generate a rank-point from 2 to 1
-- Reduced the amount of sabotages required to generate a rank-point from 2 to 1
+- Reduced the amount of mine defusals required to generate a rank-point from 2 to 1
 
 ### Explosion changes
 - Seismic grenades now have 25% damage bleed through effect like Nuclear missiles/Arty shells.
