@@ -160,7 +160,7 @@ Changelog:
 	- Reduced FalloffEnd from 10000 to 8000
 	- Reduced Minimal Damage from 4 to 3
 - Depleted Uranium Heavy Machine Gun
-	- '''REMOVED'''
+	- **REMOVED**
 - Plasma Heavy Machine Gun
 	- Increased Cost from 100 to 110
 - High-Explosive Heavy Machine Gun
