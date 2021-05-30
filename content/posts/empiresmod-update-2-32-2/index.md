@@ -7,7 +7,7 @@ post_type_future: ["Source", "Changelog"]
 ---
 
 
-We're happy to announce the release of version 2.32.2. This is live on Steam right now!
+We're happy to announce version 2.32.2 is live on Steam.
 
 {{< rawhtml >}}
 <iframe src="https://store.steampowered.com/widget/17740/" frameborder="0" width="646" height="190"></iframe>
@@ -57,7 +57,7 @@ Infantry Resistances have been redone so that Engineer is the baseline, Grenadie
 	
 ### Vehicle Weapons
 
-#### Cannons
+### Cannons
 
 - Standard Cannon
 	- Reduced Explosion Radius from 300 to 250
@@ -80,7 +80,7 @@ Infantry Resistances have been redone so that Engineer is the baseline, Grenadie
 	- Reduced Vehicle Bio Time from 5 to 3
 	- Increased Vehicle Bio Damage from 6 to 8
 	
-#### Missile Launchers
+### Missile Launchers
 
 - Standard Missile Launcher
 	- Reduced Explosion Radius from 200 to 150
@@ -91,7 +91,7 @@ Infantry Resistances have been redone so that Engineer is the baseline, Grenadie
 - Upgraded Missile Launcher
 	- Reduced Explosion Radius from 250 to 200
 	
-#### Machine Guns
+### Machine Guns
 
 - High-Explosive Heavy Machine Gun
 	- **REMOVED**
