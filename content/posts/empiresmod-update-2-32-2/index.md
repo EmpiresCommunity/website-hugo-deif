@@ -93,8 +93,6 @@ Infantry Resistances have been redone so that Engineer is the baseline, Grenadie
 	
 ### Machine Guns
 
-- High-Explosive Heavy Machine Gun
-	- **REMOVED**
 - Plasma Heavy Machine Gun
 	- Reduced Damage from 12 to 10
 	
