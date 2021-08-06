@@ -7,7 +7,7 @@ post_type: UE4
 
 ### Project Focus and Projectiles
 
-###### Roy Awesome
+###### Roy Awesome  
 
 Most of July was spent trying to network the ECS projectiles.  We got pretty far, creating a network transport layer and defining the base protocol to replicate bullets, but we got bogged down packaging the bullets and sending them across the wire to remote clients.  After a few weeks of fighting with the Engine, late in July we decided to shelve ECS bullets for now, and approach it again when the project is further along.  We have a working projectile system, so it would be best to focus our efforts on things that don’t exist, like Vehicles and Buildings.  Also, Mayama creating a ton of amazing vehicles helped us realize we needed to start getting them in game sooner rather than later.
 
