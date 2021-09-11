@@ -17,7 +17,7 @@ Join us on Discord! https://discord.gg/EXwY2X7
 
 Changelog:
 
-### Features
+## Features
 
 - Implemented a system that checks which player body parts are blocked by other objects before applying explosion damage.
 	- Explosion damage and Bio DoT now scales based on the mass of the objects blocking each body part. (Bio Dot is only changed for explosions, Bio MG is unaffected)
