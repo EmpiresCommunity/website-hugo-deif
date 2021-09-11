@@ -38,19 +38,19 @@ Changelog:
 
 | Standing body parts | Crouching body parts | Proning body parts |
 |---|---|---|
-| ![Standing body parts!](/Standing_body_parts.png "Note: Chest position is hidden inside player geometry but is in line with the arm positions") | ![Crouching body parts!](/Crouch_body_parts.png "Note: Chest position is hidden inside player geometry but is in line with the arm positions") | ![Proning body parts!](/Prone_body_parts.png "Note: Chest position is hidden inside player geometry but is in line with the arm positions") |
+| ![alt_text](Standing_body_parts.png "Note: Chest position is hidden inside player geometry but is in line with the arm positions") | ![alt_text](Crouch_body_parts.png "Note: Chest position is hidden inside player geometry but is in line with the arm positions") | ![alt_text](Prone_body_parts.png "Note: Chest position is hidden inside player geometry but is in line with the arm positions") |
 
 
-### Bug fixes
+## Bug fixes
 
 - Updated the Source Engine SDK Base files to the latest version.
 	- [Valve's patch notes for the update simply reads - "Numerous security and stability improvements."](https://steamcommunity.com/games/320/announcements/detail/2971794942853258240)
 - Identified and resolved an issue causing Half-Life 2: Lost Coast content to be missing in the server packages. (Both Windows/Linux)
 
 
-### Maps / Level design 
+## Maps / Level design 
 
-#### Minor update to emp_canyon
+### Minor update to emp_canyon
 
 - Fixed [Cubemaps](https://developer.valvesoftware.com/wiki/Cubemaps) not being built when the map was last published.
 - All player/vehicle clip brushes have been remade, increasing accuracy in order to prevent players from using exploits to reach the top of the hills.
@@ -58,26 +58,26 @@ Changelog:
 - Standardized core entity names to match other official maps.
 - Fixed the env_sun entity not displaying because of bad entity settings.
 
-#### Minor update to emp_coast
+### Minor update to emp_coast
 
 - Remade all clip brushes/comm/engy restrict brushes
 	- Fixed various exploit spots
 - Standardized core entity names with other official maps.
 
-#### Minor update to emp_mvalley
+### Minor update to emp_mvalley
 
 - Added player/vehicle/comm building clips to the high ground again. After hearing feedback from a lot of players, the majority of people suggested that they preferred the gameplay without high ground being accessible.
 
 
-### Script/Game Balance
+## Script/Game Balance
 
 Script changes are visible via the [empires_scripts](https://git.empiresmod.com/empires_public/empires_scripts/-/commits/develop) repo on our Gitlab. Please follow the link if you would like to check exactly how the script values have changed.
 
-#### Infantry weapons
+### Infantry weapons
 
 - Both shotguns now have a FalloffEnd value of 7500, they were previously mismatched. (Previously BE was 5000, NF was 10000; This was unintentional.)
 
-#### Vehicle chassis
+### Vehicle chassis
 
 - Reduced BE AFV Max Weight by 10
 - Reduced NF Light Tank Max Weight by 10
@@ -85,7 +85,7 @@ Script changes are visible via the [empires_scripts](https://git.empiresmod.com/
 	- NF Jeep armor angle values were for the old model, these have been updated to reflect the geometry of the new model.
 	- Both command vehicles had non-symmetrical armor angles for the back of the vehicle. Only by a few degrees, however both have been updated to resolve this.
 
-#### Vehicle engines
+### Vehicle engines
 
 - APC Engines' cooling has been reduced by 1.
 - Heavy Tank Engines' cooling has been increased by 1.
@@ -94,7 +94,7 @@ Script changes are visible via the [empires_scripts](https://git.empiresmod.com/
 - Horsepower Health Penalty has been increased slightly.
 - Bio Diesel has been tweaked so it's no longer "unstoppable".
 
-#### Vehicle weapons
+### Vehicle weapons
 
 - Removed High-Explosive Heavy Machine Gun
 - Artillery weapons have been slightly rebalanced.
