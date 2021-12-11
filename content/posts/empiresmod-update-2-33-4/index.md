@@ -24,6 +24,10 @@ Changelog:
 - Fixed a problem causing explosions to sometimes deal damage through building geometry. (Building entities, not the world)
 
 
+## Miscellaneous changes
+- Increased the volume of rail cannon's firing sound as it was a more quiet than the others.
+
+
 ## Script/Game Balance
 
 ### Vehicle Weapons
