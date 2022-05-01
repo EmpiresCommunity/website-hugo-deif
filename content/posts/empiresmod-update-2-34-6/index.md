@@ -20,7 +20,7 @@ Changelog:
 ## Bug fixes
 
 - Fix order distances having incorrect unit conversion from inches to meters.
-- Fix an issue allowing an exploit to refill calc charge.
+- Fix an exploit allowing players to refill their engineer tool to full when changing class.
 - Disable mine detonation for players on ladders.
 - Remove double averaging of scoreboard latency, engine code already handles it.
 
