@@ -82,7 +82,7 @@ Changelog:
 - Homing Missile Launcher
 	- Increased Explosion Force from 40 to 500
 
-### Vehicle Weapons
+### Infantry Weapons
 
 - Mortar & RPG now share the same ammo
 	- It effectively reduces the amount of ammo Grenadiers carry by half
