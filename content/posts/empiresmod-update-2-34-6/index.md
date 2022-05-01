@@ -18,6 +18,7 @@ Join us on Discord! https://discord.gg/EXwY2X7
 Changelog:
 
 ## Bug fixes
+
 - Fix order distances having incorrect unit conversion from inches to meters.
 - Fix an issue allowing an exploit to refill calc charge.
 - Disable mine detonation for players on ladders.
@@ -26,8 +27,8 @@ Changelog:
 
 ## Script/Game Balance
 
-
 ### Infantry Resists
+
 - Engineer & Rifleman
 	- Increased Mortar Resist from 0 to 0.1
     	- Reduces Mortar Damage from 130 to 117
@@ -38,8 +39,8 @@ Changelog:
 	- Increased Mortar Resist from 0.2 to 0.28
     	- Reduces Mortar Damage from 104 to 93
 
-
 ### Command Vehicle
+
 - Reduced Engineer Hull Repair from 3 to 1
 	- It triples the time it takes to repair the Command Vehicle's Hull
 - Reduced Engineer Armor Repair from 0.04 to 0.01
@@ -48,13 +49,13 @@ Changelog:
 - Reduced Command Vehicle's Armor Regenaration from 0.004 to 0.002
 - Increased Command Vehicle's Armor Damage to Heat Absorbed from 0.025 to 0.04
 
-
 ### Vehicle Armors
+
 - All Armors
 	- Increased Squad Artillery Resistance from 0 to 0.25
 
-
 ### Vehicle Weapons
+
 - Extended Range Cannon
 	- Increased Gravity from 0.1 to 0.15
 - Plasma Cannon
@@ -81,8 +82,8 @@ Changelog:
 - Homing Missile Launcher
 	- Increased Explosion Force from 40 to 500
 
-
 ### Vehicle Weapons
+
 - Mortar & RPG now share the same ammo
 	- It effectively reduces the amount of ammo Grenadiers carry by half
 - Mortar
