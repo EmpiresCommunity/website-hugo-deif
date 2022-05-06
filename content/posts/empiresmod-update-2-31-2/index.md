@@ -2,6 +2,7 @@
 title: Empires Mod 2.31.2 Released!
 author: Smithy
 date: "2021-03-27"
+tags: [ "Source" ]
 post_type: Source
 post_type_future: ["Source", "Changelog"]
 ---
