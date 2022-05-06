@@ -1,0 +1,17 @@
+<div class="post_meta">
+  <img class="icon date" src="{{ .Site.BaseURL }}/images/calendar-month.png" />
+  <span class="post_date">
+    {{.Date.Format "Monday, 2 January 2006"}}
+  </span>
+  <span> - Tags: </span>
+  {{- with .Params.tags -}}
+    <span>
+      {{- range . }}
+        {{- $tag := urlize . -}}
+        <a href='{{ absLangURL (printf "tags/%s" $tag) }}' title="{{ . }}" class="tag button">
+          {{- . }}
+       </a>
+      {{- end }}
+    </span>
+  {{- end }}
+</div>

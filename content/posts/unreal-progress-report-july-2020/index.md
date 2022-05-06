@@ -2,6 +2,7 @@
 title: Glycen City and Players
 author: RoyAwesome
 date: "2020-08-04"
+tags: [ "UE4" ]
 post_type: UE4
 aliases: "/posts/2020-08-04-unreal-progress-report-july-2020.html"
 ---

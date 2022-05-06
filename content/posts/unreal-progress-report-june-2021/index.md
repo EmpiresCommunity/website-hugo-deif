@@ -2,6 +2,7 @@
 title: Empires UE4 Progress Report, June 2021
 author: RoyAwesome
 date: "2021-07-04"
+tags: [ "UE4" ]
 post_type: UE4
 ---
 

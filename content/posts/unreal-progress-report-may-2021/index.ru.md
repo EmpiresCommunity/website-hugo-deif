@@ -2,6 +2,7 @@
 title: Ежемесячный отчёт о разработке Empires UE4, Май 2021
 author: RoyAwesome
 date: "2021-06-12"
+tags: [ "UE4" ]
 post_type: UE4
 ---
 

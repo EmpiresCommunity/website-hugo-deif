@@ -2,6 +2,7 @@
 title: Introducing emp_cargo, a map by community member Oktay
 author: Neoony
 date: "2022-04-18"
+tags: [ "Source" ]
 post_type: Source
 post_type_future: ["Source", "Community"]
 ---
