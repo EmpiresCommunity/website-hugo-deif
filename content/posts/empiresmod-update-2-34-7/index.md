@@ -22,7 +22,7 @@ Changelog:
 
 - Fixed a bug causing the engineer tool to regain more ammo than expected when re-applying the player's class.
 - Fixed an issue preventing map spawned ammo crates from re-supplying tanks in certain situations.
-- Fixed an problem with the squad artillery ability being activated in areas that shouldn't be allowed. (Non sky-box.)
+- Fixed a problem with the squad artillery ability being activated in areas that shouldn't be allowed. (Non sky-box.)
 
 
 ## Script/Game Balance
