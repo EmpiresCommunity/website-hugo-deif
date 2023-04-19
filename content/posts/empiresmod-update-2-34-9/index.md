@@ -20,7 +20,7 @@ Changelog:
 
 ## Features
 
-- Double clicking of weapons/armor/engine in vehicle custimization now adds/removes. Armor and engine will swap what is equipped if trying to add a different armor.
+- Double clicking of weapons/armor/engine in vehicle customization now adds/removes. Armor and engine will swap what is equipped if trying to add a different armor.
 
 
 ## Bug fixes
@@ -72,7 +72,7 @@ Changelog:
 ### Infantry Weapons
 
 - Mines
-	- Disabled mine detonation by vehicle carcasses. (This is back to the old behaviour.)
+	- Disabled mine detonation by vehicle carcasses. (This is back to the old behavior.)
 - RPG
 	- Reduced Explosion Radius from 75 to 50
 	- Reduced Turning Speed from 1.65 to 1.5
