@@ -301,28 +301,32 @@ a:hover, a.navbar-item:hover, a.navbar-link:hover {
             margin-left: 5px;
         }
 
+        .projectlead {
+            background-color: hsl(359, 91%, 56%);
+        }
+
         .programmer {
-            background-color: hsl(208, 62%, 56%);
+            background-color: hsl(198, 70%, 35%);
         }
 
-        .ai {
-            background-color: hsl(125, 51%, 39%);
-        }
-
-        .mapper {
-            background-color: hsl(46, 100%, 32%);
+        .leveldesign {
+            background-color: hsl(94, 54%, 53%);
         }
 
         .modeller {
-            background-color: hsl(0, 58%, 42%);
-        }
-
-        .scripter {
-            background-color: hsl(290, 57%, 42%);
+            background-color: hsl(21, 87%, 50%);
         }
 
         .sound {
-            background-color:  hsl(164, 82%, 32%);
+            background-color:  hsl(162, 57%, 41%);
+        }
+
+        .discordadmin {
+            background-color: hsl(6, 78%, 57%);
+        }
+
+		.discordmod {
+            background-color: hsl(145, 63%, 49%);
         }
     }
 }
