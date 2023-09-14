@@ -10,9 +10,10 @@ We've been around for a long time making Empires. Initially as a sole developer 
 
 <div class="columns team">
     <div class="column">
-        <b>Source</b>
+        <b>Source Engine</b>
         <ul>
             <li>Smithy <span class="tag projectlead">Project lead</span><span class="tag programmer">Programmer</span></li>
+            <li>Trainzack <span class="tag programmer">Programmer</span></li>
         </ul>
     </div>
     <div class="column">
@@ -42,6 +43,7 @@ We've been around for a long time making Empires. Initially as a sole developer 
             <li>Neoony <span class="tag discordmod">Discord Moderator</span></li>
             <li>Oktay <span class="tag discordmod">Discord Moderator</span></li>
             <li>Sovietshark <span class="tag discordmod">Discord Moderator</span></li>
+            <li>Trainzack <span class="tag discordmod">Discord Moderator</span></li>
         </ul>
     </div>
 </div>
