@@ -14,6 +14,7 @@ We've been around for a long time making Empires. Initially as a sole developer 
         <ul>
             <li>Smithy <span class="tag projectlead">Project lead</span><span class="tag programmer">Programmer</span></li>
             <li>Trainzack <span class="tag programmer">Programmer</span></li>
+            <li>Gorbulas / Awpolt <span class="tag modeller">Modeller</span></li>
         </ul>
     </div>
     <div class="column">
