@@ -15,6 +15,7 @@ We've been around for a long time making Empires. Initially as a sole developer 
             <li>Smithy <span class="tag projectlead">Project lead</span><span class="tag programmer">Programmer</span></li>
             <li>Trainzack <span class="tag programmer">Programmer</span></li>
             <li>Gorbulas / Awpolt <span class="tag modeller">Modeller</span></li>
+            <li>Varbles <span class="tag leveldesign">Level Design</span></li>
         </ul>
     </div>
     <div class="column">
