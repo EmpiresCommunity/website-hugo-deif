@@ -63,28 +63,19 @@ body {
     }
 
     .video-container {
-        position:relative;
-        padding-bottom:56.25%;
-        padding-top:30px;
-        height:0;
-        overflow:hidden;
+        position: relative;
+        padding-bottom: 56.25%;
+        padding-top: 30px;
+        height: 0;
+        overflow: hidden;
     }
-    
+
     .video-container iframe, .video-container object, .video-container embed {
-        position:absolute;
-        top:0;
-        left:0;
-        width:100%;
-        height:100%;
-    }
-}
-
-.button {
-    padding: 20px;
-
-    .icon {
-        margin-left: 10px !important;
-        margin-right: 0 !important;
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
     }
 }
 
@@ -125,17 +116,17 @@ body {
         display: flex;
         flex-direction: row;
         justify-content: space-between;
-    
+
         .post-snippet {
             width: 32%;
             display: flex;
             flex-direction: column;
             justify-content: space-around;
         }
-    
+
         .post-snippet + .post-snippet {
             margin-left: 2%;
-          }
+        }
     }
 }
 
@@ -156,19 +147,10 @@ body {
 
     h1 {
         margin-top: 60px;
-        color: hsl(208, 60%, 52%);
     }
 
-    h2 {
-        font-size: 120%;
+    h1, h2, h3, h4, h5 {
         color: hsl(208, 60%, 52%);
-        font-weight: normal;
-    }
-
-    h3 {
-        font-size: 100%;
-        color: hsl(208, 60%, 52%);
-        font-weight: normal;
     }
 
     p {
@@ -185,29 +167,33 @@ body {
             font-size: 1.75em;
         }
     }
-    
+
     .post_meta {
         align-items: stretch;
-        
+
         span {
-        display: inline-flex;
-        flex-flow: row wrap;
-        align-items: center;
-        margin-bottom: 0.5rem;
-        @media screen and (min-width: 557px) {
-          gap: 0.5rem 0;
+            display: inline-flex;
+            flex-flow: row wrap;
+            align-items: center;
+            margin-bottom: 0.5rem;
+
+            @media screen and (min-width: 557px) {
+                gap: 0.5rem 0;
+            }
+
+            &:last-of-type {
+                @media screen and (max-width: 667px) {
+                    margin-top: -0.5rem;
+                }
+            }
         }
-        &:last-of-type {
-          @media screen and (max-width: 667px) {
-            margin-top: -0.5rem;
-          }
-        }
-        }
+
         .button {
-        padding:5px;
-        @media screen and (min-width: 667px) {
-          margin: 0 0.5rem;
-        }
+            padding: 5px;
+
+            @media screen and (min-width: 667px) {
+                margin: 0 0.5rem;
+            }
         }
     }
 }
@@ -258,8 +244,10 @@ a:hover, a.navbar-item:hover, a.navbar-link:hover {
     }
 
     .item, .heading {
-        margin-bottom: 10px;
+        margin-bottom: 5px;
     }
+
+    padding: 3rem 1.5rem 3rem;
 }
 
 .social-section {
@@ -318,14 +306,14 @@ a:hover, a.navbar-item:hover, a.navbar-link:hover {
         }
 
         .sound {
-            background-color:  hsl(162, 57%, 41%);
+            background-color: hsl(162, 57%, 41%);
         }
 
         .discordadmin {
             background-color: hsl(6, 78%, 57%);
         }
 
-		.discordmod {
+        .discordmod {
             background-color: hsl(145, 63%, 49%);
         }
     }
