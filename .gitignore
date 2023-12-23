@@ -1,3 +1,18 @@
+### Hugo ###
+# Generated files by hugo
+public/
+resources/_gen
+assets/jsconfig.json
+hugo_stats.json
+
+# Executable may be added to repository
+hugo.exe
+hugo.darwin
+hugo.linux
+
+# Temporary lock file while building
+.hugo_build.lock
+
 # Binaries for programs and plugins
 *.exe
 *.exe~
@@ -14,5 +29,5 @@
 # Dependency directories (remove the comment below to include it)
 # vendor/
 
-public/
-/resources/_gen/**
+# Ignore Visual Studio directory 
+.vs/
