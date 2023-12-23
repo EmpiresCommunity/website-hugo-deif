@@ -3,6 +3,7 @@ languageCode = "en"
 DefaultContentLanguage = "en"
 enableRobotsTXT = true
 title = "Empires"
+description = "Empires, the award winning Half-Life 2 mod, combines the best of the first person shooter and real-time strategy genres."
 
 [markup]
   defaultMarkdownHandler = "goldmark"
