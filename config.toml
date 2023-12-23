@@ -1,6 +1,7 @@
 baseURL = "https://www.empiresmod.com/"
 languageCode = "en"
 DefaultContentLanguage = "en"
+enableRobotsTXT = true
 title = "Empires"
 
 [markup]
