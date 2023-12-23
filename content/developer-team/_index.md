@@ -1,7 +1,7 @@
 ---
-title: About Us
+title: Developer Team
 author: smithy
-date: "2023-10-30"
+date: "2023-12-21"
 ---
 
 We've been around for a long time making Empires. Initially as a sole developer project on the Battlefield 1942 engine it moved across to the Source Engine before becoming a community project. Since then many members have contributed and added their unique marks on the game. Now some of those members are rebuilding the game again in Unreal Engine.
@@ -45,7 +45,6 @@ We've been around for a long time making Empires. Initially as a sole developer 
             <li>Neoony <span class="tag discordmod">Discord Moderator</span></li>
             <li>Oktay <span class="tag discordmod">Discord Moderator</span></li>
             <li>Sovietshark <span class="tag discordmod">Discord Moderator</span></li>
-            <li>Trainzack <span class="tag discordmod">Discord Moderator</span></li>
         </ul>
     </div>
 </div>
