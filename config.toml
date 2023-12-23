@@ -1,5 +1,6 @@
 baseURL = "https://www.empiresmod.com/"
-languageCode = "en-us"
+languageCode = "en"
+DefaultContentLanguage = "en"
 title = "Empires"
 
 [markup]
@@ -13,7 +14,7 @@ title = "Empires"
     title = "Empires"
     languageName = "English"
     weight = 1
-  
+
   [languages.ru]
     title = "Empires"
     languageName = "русский"
