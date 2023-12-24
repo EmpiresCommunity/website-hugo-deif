@@ -18,7 +18,7 @@ body {
 }
 
 .ue4-teaser {
-    background-image: url("{{ .Site.BaseURL }}/images/teaser.jpg");
+    background-image: url("{{ .Site.BaseURL }}/images/teaser.webp");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -42,7 +42,7 @@ body {
 }
 
 .wrapper::before {
-    background-image: url("{{ .Site.BaseURL }}/images/noise1.png");
+    background-image: url("{{ .Site.BaseURL }}/images/noise1.webp");
     content: " ";
     position: fixed;
     opacity: 0.6;
