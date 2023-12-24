@@ -14,23 +14,23 @@ jobs:
       - id: log
         run: |
           POST_COMMIT_MESSAGE=$(git log --no-merges -1 --pretty=%B)
-          echo ::set-output name=POST_COMMIT_MESSAGE::$POST_COMMIT_MESSAGE
+          echo "name=POST_COMMIT_MESSAGE::$POST_COMMIT_MESSAGE" >> $GITHUB_OUTPUT
           if [[ $POST_COMMIT_MESSAGE == *"Tweet: "* ]]; then HAS_TWEET=true ; fi
-          echo ::set-output name=HAS_TWEET::$HAS_TWEET
-        
+          echo "name=HAS_TWEET::$HAS_TWEET" >> $GITHUB_OUTPUT
+
       - id: parse
         if: steps.log.outputs.HAS_TWEET
         run: |
           searchString="Tweet: "
           POST_COMMIT_MESSAGE="${{ steps.log.outputs.POST_COMMIT_MESSAGE }}"
           tweet=${POST_COMMIT_MESSAGE#*$searchString}
-          echo ::set-output name=TWEET::$tweet
+          echo "name=TWEET::$tweet" >> $GITHUB_OUTPUT
 
-      - uses: ethomson/send-tweet-action@v1
+      - uses: nearform-actions/github-action-notify-twitter@v1
         if: steps.log.outputs.HAS_TWEET
         with:
-          status: "${{ steps.parse.outputs.TWEET }}"
-          consumer-key: ${{ secrets.TWITTER_CONSUMER_API_KEY }}
-          consumer-secret: ${{ secrets.TWITTER_CONSUMER_API_SECRET }}
-          access-token: ${{ secrets.TWITTER_ACCESS_TOKEN }}
-          access-token-secret: ${{ secrets.TWITTER_ACCESS_TOKEN_SECRET }}
+          message:  "${{ steps.parse.outputs.TWEET }}"
+          twitter-app-key: ${{ secrets.TWITTER_CONSUMER_API_KEY }}
+          twitter-app-secret: ${{ secrets.TWITTER_CONSUMER_API_SECRET }}
+          twitter-access-token: ${{ secrets.TWITTER_ACCESS_TOKEN }}
+          twitter-access-token-secret: ${{ secrets.TWITTER_ACCESS_TOKEN_SECRET }}
