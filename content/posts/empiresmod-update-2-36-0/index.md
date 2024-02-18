@@ -157,7 +157,6 @@ Jumping stamina usage has been tweaked so that the stamina requirement to jump i
 - Biological Missile Launcher
 	- Increased Player Bio Damage from 3 to 5
 	- Increased Vehicle Bio Damage from 8 to 10
-	- Decreased Vehicle Bio Duration from 8 to 8
 - High-Explosive Cannon
 	- Increased Cost from 70 to 90
 	- Reduced Damage from 75 to 70
