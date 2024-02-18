@@ -21,3 +21,13 @@ description = "Empires, the award winning Half-Life 2 mod, combines the best of 
     title = "Empires"
     languageName = "русский"
     weight = 2
+
+[Params]
+  DiscordLink = "https://discord.gg/UH6Sc6B"
+  PatreonLink = "https://www.patreon.com/Empires"
+  RedditLink = "https://reddit.com/r/Empires"
+  SteamCommunityLink = "https://steamcommunity.com/app/17740/discussions/"
+  SteamDBLink = "https://steamdb.info/app/17740/graphs/"
+  SteamStoreLink = "https://store.steampowered.com/app/17740/Empires_Mod/"
+  TwitterLink = "https://x.com/empires_mod"
+  WikiLink = "https://wiki.empiresmod.com"

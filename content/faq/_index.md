@@ -27,7 +27,7 @@ You can also check the current player count & history [here](https://steamdb.inf
 A complete team listing can be found on the [Developer Team]({{< ref "developer-team" >}}) page.
 
 ### Why is the game unstable at times?
-We are still actively developing this game. As a result, some issues still exist. The development team is rather small and are doing this all for free, so these things take time. Please be patient and report any issues you may find on the official [Empires Discord](https://discord.gg/UH6Sc6B).
+We are still actively developing this game. As a result, some issues still exist. The development team is rather small and are doing this all for free, so these things take time. Please be patient and report any issues you may find on the official Empires Discord - {{< discordlink >}}.
 
 ### Does the game include aircraft?
 No.
@@ -48,4 +48,4 @@ Be sure to have 32bit libc installed.
 Be sure to have ttf-ms-fonts, lib32-openal and lib32-libbsd installed.
 
 ### Where can I find out even more about Empires Mod?
-Have a look at [the manual](http://empiresmod.com/docs/), or if you have any questions, head over to the official [Empires Discord server](https://discord.gg/UH6Sc6B).
+Have a look at [the manual](http://empiresmod.com/docs/), or if you have any questions, head over to the official Empires Discord server - {{< discordlink >}}.
