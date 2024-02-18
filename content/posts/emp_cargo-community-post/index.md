@@ -85,7 +85,7 @@ and Bloodwiper
 <iframe src="https://store.steampowered.com/widget/17740/" frameborder="0" width="646" height="190"></iframe>
 {{< /rawhtml >}}
 
-Join us on Discord! https://discord.gg/EXwY2X7
+Join us on Discord! {{< discordlink >}}
 If you want to download the map, ask for latest version in our Discord server's #mapping channel.
 
 

@@ -14,7 +14,7 @@ We're happy to announce version 2.32.2 is live on Steam.
 <iframe src="https://store.steampowered.com/widget/17740/" frameborder="0" width="646" height="190"></iframe>
 {{< /rawhtml >}}
 
-Join us on Discord! https://discord.gg/EXwY2X7
+Join us on Discord! {{< discordlink >}}
 
 Changelog:
 

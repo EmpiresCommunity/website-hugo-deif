@@ -52,4 +52,4 @@ We've been around for a long time making Empires. Initially as a sole developer 
 ## Call for Help
 
 What we really are missing from our UE5 team right now is an **animator** and a **game designer**. If you have experience with animating with the Unreal Engine then please get in touch with one of the
-team in our [Discord](https://discord.gg/EXwY2X7). Note that we are all volunteers and we work on this project for fun.
+team in our Discord - {{< discordlink >}}. Note that we are all volunteers and we work on this project for fun.
