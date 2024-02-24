@@ -20,7 +20,7 @@ Changelog:
 
 ## Bug fixes
 - Fixed a few issues caused by changes in 2.36.0
-	- Soundscapes are now working properly again.
+	- Fixed player round stats not restoring if the player reconnected to the server.
 	- Fixed issues with collision of projectiles/players.
 	- Fixed an issue causing soundscape entities to not play any sounds.
 
