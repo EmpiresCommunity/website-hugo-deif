@@ -41,7 +41,6 @@ We've been around for a long time making Empires. Initially as a sole developer 
             <li>Smithy <span class="tag discordadmin">Discord Admin</span></li>
             <li>Trickster <span class="tag discordadmin">Discord Admin</span></li>
             <li>Candles <span class="tag discordmod">Discord Moderator</span></li>
-            <li>LordDz <span class="tag discordmod">Discord Moderator</span></li>
             <li>Neoony <span class="tag discordmod">Discord Moderator</span></li>
             <li>Oktay <span class="tag discordmod">Discord Moderator</span></li>
             <li>Sovietshark <span class="tag discordmod">Discord Moderator</span></li>
