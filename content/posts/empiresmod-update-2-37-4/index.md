@@ -41,3 +41,5 @@ Changelog:
 - NF Shot Pistol
 	- Increased Damage from 14 to 16.
 	- Increased Minimal Damage from 7 to 8.
+
+
