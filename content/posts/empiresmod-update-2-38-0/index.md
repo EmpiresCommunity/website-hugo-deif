@@ -70,7 +70,6 @@ Changelog:
 - Commanders can now see player request icons from further away, especially requests for commander attention.
 	- This distance is 12k units for commander attention requests and 6k units for other requests
 	- For comparison, requests are normally 3k units and revive icons 4k units
-<s style="color:#FFFFFF11">- Added Aircraft</s>
 ## Bugfixes
 - The C++ code for the mini-map has been extensively refactored. This update resolves several longstanding issues and improves maintainability, making it easier for developers to add new features and enhancements.
 - Fixed a bug causing homing missiles to fire without any spread when fired without entering missile lock.
