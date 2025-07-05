@@ -32,7 +32,7 @@ Optimized some of the heavily used functions in the game code. While functionali
 - SMG3 (NF Heavy Carbine)
 	- Decreased Damage per bullet from 37 to 32
 
-###Vehicle Weapons
+### Vehicle Weapons
 - Homing Missile Launcher (2 slot)
 	- Decreased heat from 10 to 8
 
