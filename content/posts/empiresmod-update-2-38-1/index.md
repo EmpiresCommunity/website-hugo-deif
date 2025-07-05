@@ -24,7 +24,7 @@ Changelog:
 - Fixed a regression, where the mini-map wouldn't reveal both team's units at the end of the game.
 - Fixed a bug where revived players would occasionally be teleported to the map origin.
 - Fixed a bug where recycling a radar caused the emp_info_params entity to miscount the number of radars a team currently has. This was due to the counter decrementing twice, requiring teams to build two radars to compensate. The logic has been rewritten to eliminate reliance on manual increment/decrement operations.
-Optimized some of the heavily used functions in the game code. While functionality remains unchanged, these refinements offer small improvements to server performance and enhance overall maintainability.
+- Optimized some of the heavily used functions in the game code. While functionality remains unchanged, these refinements offer small improvements to server performance and enhance overall maintainability.
 
 ## Script/Game Balance
 
