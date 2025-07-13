@@ -16,7 +16,7 @@ We're happy to announce version 2.32.1 which is live on Steam right now!
 
 Join us on Discord! {{< discordlink >}}
 
-Changelog:
+# Changelog:
 
 ## General changes
 

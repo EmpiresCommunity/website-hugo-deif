@@ -16,7 +16,7 @@ We're happy to announce version 2.30.3 which is live on Steam right now!
 
 Join us on Discord! {{< discordlink >}}
 
-Changelog:
+# Changelog:
 
 ## Bug fixes
 - Fixed a bug where infantry weapon spread wasn't decrementing when going to iron-sights.

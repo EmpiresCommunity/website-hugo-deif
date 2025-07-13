@@ -16,7 +16,7 @@ We're happy to announce version 2.36.0 is live on Steam.
 
 Join us on Discord! {{< discordlink >}}
 
-Changelog:
+# Changelog:
 
 ## Features
 - Added angle snapping to commander building placement. This shares a key bind with multi-unit selection. (Default key is shift.)

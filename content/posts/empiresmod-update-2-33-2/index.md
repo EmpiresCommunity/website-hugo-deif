@@ -16,7 +16,7 @@ We're happy to announce version 2.33.2 is live on Steam.
 
 Join us on Discord! {{< discordlink >}}
 
-Changelog:
+# Changelog:
 
 ## Features
 - Added resource point icons to the minimap.

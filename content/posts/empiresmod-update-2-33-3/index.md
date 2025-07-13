@@ -16,7 +16,7 @@ We're happy to announce version 2.33.3 is live on Steam.
 
 Join us on Discord! {{< discordlink >}}
 
-Changelog:
+# Changelog:
 
 ## Bug fixes
 - Fixed a bug on Linux servers which caused vehicles to be able to aim beyond the intended cannon pitch angle restrictions. (You could aim down inside your own tank and self-damage the tank)

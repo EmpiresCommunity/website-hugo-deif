@@ -16,7 +16,7 @@ We're happy to announce version 2.37.1 is live on Steam.
 
 Join us on Discord! {{< discordlink >}}
 
-Changelog:
+# Changelog:
 
 ## Features
 - Added the recycleGivesRefund ("Give Refund on Recycle?" in Hammer) parameter for building entities.

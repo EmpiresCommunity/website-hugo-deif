@@ -16,7 +16,7 @@ We're happy to announce version 2.32.2 is live on Steam.
 
 Join us on Discord! {{< discordlink >}}
 
-Changelog:
+# Changelog:
 
 ## Bug fixes
 - Fixed an issue with how explosions determine if they were blocked by the world, this would sometimes false flag as being blocked by the world even if it wasn't. (Because the world entity is the fall-back entity for a missed entity-trace)

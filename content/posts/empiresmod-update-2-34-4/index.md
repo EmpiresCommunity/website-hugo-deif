@@ -16,7 +16,7 @@ We're happy to announce version 2.34.4 is live on Steam.
 
 Join us on Discord! {{< discordlink >}}
 
-Changelog:
+# Changelog:
 
 ## General changes
 - Increased all voice line sound attenuation distance by about 1000 units.

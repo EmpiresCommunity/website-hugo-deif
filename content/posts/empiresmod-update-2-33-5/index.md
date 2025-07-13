@@ -16,7 +16,7 @@ We're happy to announce version 2.33.5 is live on Steam.
 
 Join us on Discord! {{< discordlink >}}
 
-Changelog:
+# Changelog:
 
 ## Bug fixes
 - Fixed a bug with artillery feedback only showing once if your shell/missile hit the exact same place.

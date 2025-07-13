@@ -16,7 +16,7 @@ We're happy to announce version 2.37.2 is live on Steam.
 
 Join us on Discord! {{< discordlink >}}
 
-Changelog:
+# Changelog:
 
 ## Bugfixes
 - Fixed a few bugs caused by a large refactor of the game's codebase:

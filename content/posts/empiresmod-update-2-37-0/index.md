@@ -16,7 +16,7 @@ We're happy to announce version 2.37.0 is live on Steam.
 
 Join us on Discord! {{< discordlink >}}
 
-Changelog:
+# Changelog:
 
 ## Features
 - Grenades and mines make sounds when they bounce against surfaces.

@@ -16,7 +16,7 @@ We're happy to announce version 2.36.2 is live on Steam.
 
 Join us on Discord! {{< discordlink >}}
 
-Changelog:
+# Changelog:
 
 ## Bug fixes
 - Fixed a few issues caused by changes in 2.36.0

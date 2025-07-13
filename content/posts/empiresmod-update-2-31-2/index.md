@@ -16,7 +16,7 @@ We're happy to announce version 2.31.2 which is live on Steam right now!
 
 Join us on Discord! {{< discordlink >}}
 
-Changelog:
+# Changelog:
 ## Features
 
 - Increased player icon fade distances 4000 units for revive, 3000 for everything else (ammo/health/squad icons).

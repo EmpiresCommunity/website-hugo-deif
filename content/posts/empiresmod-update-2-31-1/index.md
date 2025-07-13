@@ -16,7 +16,7 @@ We're happy to announce version 2.31.1 which is live on Steam right now!
 
 Join us on Discord! {{< discordlink >}}
 
-Changelog:
+# Changelog:
 ## Features
 
 - Player names and revive icons now follow ragdolls correctly rather than staying at the death location.

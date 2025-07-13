@@ -16,7 +16,7 @@ We're happy to announce version 2.37.4 is live on Steam.
 
 Join us on Discord! {{< discordlink >}}
 
-Changelog:
+# Changelog:
 
 ## Bugfixes
 - Fixed a problem where upgradable buildings were not precaching their models correctly, resulting in invisible models when placing the building for the first time.

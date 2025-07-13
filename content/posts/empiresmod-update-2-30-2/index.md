@@ -16,7 +16,7 @@ We're happy to announce version 2.30.2 which is live on Steam right now!
 
 Join us on Discord! {{< discordlink >}}
 
-Changelog:
+# Changelog:
 
 ## Bug fixes
 - Fixed a rare crash that was caused by weapons

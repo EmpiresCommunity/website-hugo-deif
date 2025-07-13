@@ -16,7 +16,7 @@ We're happy to announce version 2.34.5 is live on Steam.
 
 Join us on Discord! {{< discordlink >}}
 
-Changelog:
+# Changelog:
 
 ## Bug fixes
 - Fixed a bug/exploit that was allowing refineries to be placed at no resource cost.

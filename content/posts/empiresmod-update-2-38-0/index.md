@@ -16,7 +16,7 @@ We're happy to announce version 2.38.0 is live on Steam.
 
 Join us on Discord! {{< discordlink >}}
 
-Changelog:
+# Changelog:
 
 ## Features
 - Replaced vehicle shell particle effects with the new [particle systems](https://developer.valvesoftware.com/wiki/Particle_System_Overview). Each cannon can (and now does) have a different trail of particles.

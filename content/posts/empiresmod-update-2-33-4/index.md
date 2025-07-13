@@ -16,7 +16,7 @@ We're happy to announce version 2.33.4 is live on Steam.
 
 Join us on Discord! {{< discordlink >}}
 
-Changelog:
+# Changelog:
 
 ## Bug fixes
 - Fixed a bug causing the squad leader's aura to not reset if all other members left the squad whilst being in the squad aura radius.

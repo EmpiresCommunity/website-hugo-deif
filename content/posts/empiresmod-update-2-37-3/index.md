@@ -16,7 +16,7 @@ We're happy to announce version 2.37.3 is live on Steam.
 
 Join us on Discord! {{< discordlink >}}
 
-Changelog:
+# Changelog:
 ## Bugfixes
 - Fixed a bug preventing explosion damage from being blocked correctly.
 - Fixed a bug that would allow one too many players to join a team before being classed as unbalanced when using mp_teams_unbalance_limit.

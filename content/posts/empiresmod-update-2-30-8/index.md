@@ -16,7 +16,7 @@ We're happy to announce version 2.30.8 which is live on Steam right now!
 
 Join us on Discord! {{< discordlink >}}
 
-Changelog:
+# Changelog:
 
 ## Maps / Level design 
 
