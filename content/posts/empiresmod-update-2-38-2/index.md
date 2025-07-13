@@ -26,7 +26,7 @@ Join us on Discord! {{< discordlink >}}
 		- Commander score bonus.
 		- Squad participation bonus.
 		- Squad leader bonus.
-	- Fixed a mini-map issue where carcasses were being displayed on the mini-map.
+	- Fixed an issue causing vehicle carcasses to be displayed on the mini-map.
 	- Fixed an issue where Brenodi reinforcements weren't being set correctly by map inputs on emp_info_params. (It was using the NF setting for both teams.)
 	- Fixed a bug in GetBuildingCount() function in code, it was only able to return a count of team radars, regardless of input parameters.
 - Fixed an issue where the radar & engineer radar were trying to spot dead vehicles.
