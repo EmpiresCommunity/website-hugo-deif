@@ -32,7 +32,6 @@ Join us on Discord! {{< discordlink >}}
 ### Vehicle Engines
 - Fission Reactor
 	- Reduced Cooling at Max by 1 for all chassis
-## Script/Game Balance
 ### Research
 - Superheat Material Physics
 	- Increased Cost (per second) from 4 to 5
