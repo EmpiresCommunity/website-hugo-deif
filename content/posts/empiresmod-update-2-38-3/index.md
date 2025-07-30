@@ -23,6 +23,9 @@ Join us on Discord! {{< discordlink >}}
 - Changed **emp_sv_player_refinery_multiplier** to allow input values of 0 to disable this functionality entirely.
 
 ## Script/Game Balance
+### Infantry Weapons
+- NF Heavy Carbine
+	- Increased spread for all player stances. This was too accurate overall, but mostly when prone.
 ### Vehicle Armors
 - Pykrete Armor has been renamed to Ablative Armor
 - Ablative Armor
