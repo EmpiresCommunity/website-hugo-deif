@@ -10,6 +10,10 @@ description = "Empires, the award winning Half-Life 2 mod, combines the best of 
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+  [markup.tableOfContents]
+    endLevel = 4
+    ordered = false
+    startLevel = 2
 
 [languages]
   [languages.en]
