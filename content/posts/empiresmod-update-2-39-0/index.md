@@ -40,7 +40,7 @@ Join us on Discord! {{< discordlink >}}
     - Damage reduced from 32 to 30
     - Minimal Damage reduced from 18 to 14
     - FalloffEnd reduced from 10000 to 5000
-    - Clip Size reduced from 12 to 14
+    - Clip Size increased from 12 to 14
     - Reduced overall accuracy
 
 ### Vehicle Armors
