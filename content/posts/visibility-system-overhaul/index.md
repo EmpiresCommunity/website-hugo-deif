@@ -110,10 +110,10 @@ All buildings have detector components, except for walls - which do not detect o
 | Engineer camera | Motion detection | Player | Enemy | Spotted | 2 second | 2,000 units | 10 units per second |
 | Engineer radar | Area detection | Building | Enemy| Detected | `Active` | 4,000 units | N/A |
 | Engineer radar | Motion detection | Vehicle | Enemy | Spotted | 2 second | 4,000 units | 10 units per second |
-| Engineer Radar | Area detection | Vehicle Carcass | Enemy | Spotted | `Active` | 10,000 units | N/A |
+| Engineer Radar | Area detection | Vehicle Carcass | Enemy | Spotted | `Active` | 4,000 units | N/A |
 | Radar | Area detection | Building | Enemy (Detects friendlies if sabotaged) | Detected | `Active` | 10,000 units | N/A |
 | Radar | Area detection | Vehicle | Enemy (Detects friendlies if sabotaged) | Spotted | 3 second | 10,000 units | N/A |
-| Radar | Area detection | Vehicle Carcass | Enemy (Detects friendlies if sabotaged) | Spotted | `Active` | 10,000 units | N/A |
+| Radar | Area detection | Vehicle Carcass | Enemy | Spotted | `Active` | 10,000 units | N/A |
 | Radar | Attacker detection | Player & Vehicle | Enemy | Detected | 5 second | 2,000 units | N/A |
 | All other buildings | Area detection | Building | Enemy | Detected | `Active` | Collision radius + 500 units | N/A |
 | All other buildings | Attacker detection | Player & Vehicle | Enemy | Detected | 5 second | Collision radius + 500 units | N/A |
