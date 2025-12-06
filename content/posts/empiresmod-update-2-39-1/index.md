@@ -37,7 +37,6 @@ Join us on Discord! {{< discordlink >}}
 Rebalanced ammo capacities across all classes to better reflect their combat roles.
 
 **Scout:** Receives additional reserve ammo for extended combat longevity, allowing for sustained engagements while maintaining mobility.
-- SMG1 ammo increased from 50 to 105
 - SMG2 ammo decreased from 200 to 120
 - SMG3 ammo decreased from 60 to 42
 - BE Pistol 2 ammo decreased from 28 to 21
