@@ -1,4 +1,36 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Developer Blog on Empires</title><link>https://www.empiresmod.com/posts/</link><description>Recent content in Developer Blog on Empires</description><generator>Hugo</generator><language>en</language><lastBuildDate>Sat, 06 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://www.empiresmod.com/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Empires Mod 2.39.1 Released!</title><link>https://www.empiresmod.com/posts/empiresmod-update-2-39-1/</link><pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate><guid>https://www.empiresmod.com/posts/empiresmod-update-2-39-1/</guid><description>&lt;p&gt;We&amp;rsquo;re happy to announce version 2.39.1 is live on Steam.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Developer Blog on Empires</title><link>https://www.empiresmod.com/posts/</link><description>Recent content in Developer Blog on Empires</description><generator>Hugo</generator><language>en</language><lastBuildDate>Sat, 13 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://www.empiresmod.com/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Empires Mod 2.39.2 Released!</title><link>https://www.empiresmod.com/posts/empiresmod-update-2-39-2/</link><pubDate>Sat, 13 Dec 2025 00:00:00 +0000</pubDate><guid>https://www.empiresmod.com/posts/empiresmod-update-2-39-2/</guid><description>&lt;p&gt;We&amp;rsquo;re happy to announce version 2.39.2 is live on Steam.&lt;/p&gt;
+
+
+&lt;iframe src="https://store.steampowered.com/widget/17740/" frameborder="0" width="646" height="190"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Join us on Discord! &lt;a href="https://discord.gg/UH6Sc6B"&gt;https://discord.gg/UH6Sc6B&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id="changelog"&gt;Changelog:&lt;/h1&gt;
+&lt;h2 id="features"&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Further adjustments to the visibility system introduced in 2.39.0:
+&lt;ul&gt;
+&lt;li&gt;Optimized functionality of the visibility manager game system.
+&lt;ul&gt;
+&lt;li&gt;Implemented a console variable on the server to control the update rate of the visibility manager processing. &lt;strong&gt;emp_sv_vis_manager_update_interval&lt;/strong&gt; - This is in seconds and the default value is 0.01 (update per frame if running at 100 tickrate).&lt;/li&gt;
+&lt;li&gt;Various improvements to speed of processing, reducing the processing of detectable components where possible.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Remaining vehicle carcass recycle amounts are now shown on the full screen mini-map (default key bind = &lt;strong&gt;M&lt;/strong&gt;).
+&lt;ul&gt;
+&lt;li&gt;This may be subject to change or be removed but this has been added for testing purposes. It may be disabled by default in a future update, with an option to enable it in the multiplayer options menu.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="bugfixes"&gt;Bugfixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Speculative fix to prevent spotting diamonds appearing on the HUD where they shouldn&amp;rsquo;t.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="scriptgame-balance"&gt;Script/Game Balance&lt;/h2&gt;
+&lt;h3 id="infantry"&gt;Infantry&lt;/h3&gt;
+&lt;h4 id="weapons"&gt;Weapons&lt;/h4&gt;
+&lt;p&gt;Increased ammo reserves after reviewing &amp;amp; testing the recent changes in 2.39.1.&lt;/p&gt;</description></item><item><title>Empires Mod 2.39.1 Released!</title><link>https://www.empiresmod.com/posts/empiresmod-update-2-39-1/</link><pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate><guid>https://www.empiresmod.com/posts/empiresmod-update-2-39-1/</guid><description>&lt;p&gt;We&amp;rsquo;re happy to announce version 2.39.1 is live on Steam.&lt;/p&gt;
 
 
 &lt;iframe src="https://store.steampowered.com/widget/17740/" frameborder="0" width="646" height="190"&gt;&lt;/iframe&gt;
