@@ -1,4 +1,47 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Source on Empires</title><link>https://www.empiresmod.com/tags/source/</link><description>Recent content in Source on Empires</description><generator>Hugo</generator><language>en</language><lastBuildDate>Sat, 13 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://www.empiresmod.com/tags/source/index.xml" rel="self" type="application/rss+xml"/><item><title>Empires Mod 2.39.2 Released!</title><link>https://www.empiresmod.com/posts/empiresmod-update-2-39-2/</link><pubDate>Sat, 13 Dec 2025 00:00:00 +0000</pubDate><guid>https://www.empiresmod.com/posts/empiresmod-update-2-39-2/</guid><description>&lt;p&gt;We&amp;rsquo;re happy to announce version 2.39.2 is live on Steam.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Source on Empires</title><link>https://www.empiresmod.com/tags/source/</link><description>Recent content in Source on Empires</description><generator>Hugo</generator><language>en</language><lastBuildDate>Sun, 25 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://www.empiresmod.com/tags/source/index.xml" rel="self" type="application/rss+xml"/><item><title>Empires Mod 2.39.3 Released!</title><link>https://www.empiresmod.com/posts/empiresmod-update-2-39-3/</link><pubDate>Sun, 25 Jan 2026 00:00:00 +0000</pubDate><guid>https://www.empiresmod.com/posts/empiresmod-update-2-39-3/</guid><description>&lt;p&gt;We&amp;rsquo;re happy to announce version 2.39.3 is live on Steam.&lt;/p&gt;
+
+
+&lt;iframe src="https://store.steampowered.com/widget/17740/" frameborder="0" width="646" height="190"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Join us on Discord! &lt;a href="https://discord.gg/UH6Sc6B"&gt;https://discord.gg/UH6Sc6B&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id="changelog"&gt;Changelog:&lt;/h1&gt;
+&lt;h2 id="bugfixes"&gt;Bugfixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Minor optimizations to the visibility system.&lt;/li&gt;
+&lt;li&gt;Minor fixes to the layout of the vehicle weapon HUD.&lt;/li&gt;
+&lt;li&gt;Vehicle weapon reload is now properly telegraphed via the vehicle HUD. Previously, no progress bar would display if reloading a weapon.&lt;/li&gt;
+&lt;li&gt;Fixed an issue with prop_static entities not blocking explosion damage as intended.&lt;/li&gt;
+&lt;li&gt;Fixed a regression that allowed players using hide to be spotted by other players.&lt;/li&gt;
+&lt;li&gt;Fixed a bug where players could detect enemy commanders in the command interface using the scout&amp;rsquo;s enhanced senses skill.&lt;/li&gt;
+&lt;li&gt;Improved mine defusal while inside buildings.&lt;/li&gt;
+&lt;li&gt;The player camera angles are now snapped to the vehicle turret position when entering the driver seat.&lt;/li&gt;
+&lt;li&gt;Speculative fix to prevent spotting diamonds appearing on the HUD where they shouldn&amp;rsquo;t.&lt;/li&gt;
+&lt;li&gt;Speculative fix for a client crash while using the research menu.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="scriptgame-balance"&gt;Script/Game Balance&lt;/h2&gt;
+&lt;h3 id="vehicles"&gt;Vehicles&lt;/h3&gt;
+&lt;h4 id="armor"&gt;Armor&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Increased Deflective Angle Modifier from 0.8 to 1&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="engine"&gt;Engine&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Increased Fission Reactor&amp;rsquo;s cooling at max from -3 to -4&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="weapons"&gt;Weapons&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Medium Chain gun
+&lt;ul&gt;
+&lt;li&gt;Projectile Spread decreased from 0.0275 to 0.0225&lt;/li&gt;
+&lt;li&gt;FalloffEnd increased from 1250 to 2000&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Nuclear Missile Launcher
+&lt;ul&gt;
+&lt;li&gt;Changed ammo pool to be 10 clips of 1 missile. This allows the reload sound to play when ready to fire again.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Empires Mod 2.39.2 Released!</title><link>https://www.empiresmod.com/posts/empiresmod-update-2-39-2/</link><pubDate>Sat, 13 Dec 2025 00:00:00 +0000</pubDate><guid>https://www.empiresmod.com/posts/empiresmod-update-2-39-2/</guid><description>&lt;p&gt;We&amp;rsquo;re happy to announce version 2.39.2 is live on Steam.&lt;/p&gt;
 
 
 &lt;iframe src="https://store.steampowered.com/widget/17740/" frameborder="0" width="646" height="190"&gt;&lt;/iframe&gt;
