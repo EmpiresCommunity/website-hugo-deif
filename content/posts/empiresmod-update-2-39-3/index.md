@@ -36,10 +36,10 @@ Join us on Discord! {{< discordlink >}}
 #### Armor
 - Increased Deflective Angle Modifier from 0.8 to 1
 
-### Engine
+#### Engine
 - Increased Fission Reactor's cooling at max from -3 to -4
 
-### Weapons
+#### Weapons
 - Medium Chain gun
   - Projectile Spread decreased from 0.0275 to 0.0225
   - FalloffEnd increased from 1250 to 2000
