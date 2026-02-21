@@ -1,4 +1,75 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Empires</title><link>https://www.empiresmod.com/</link><description>Recent content on Empires</description><generator>Hugo</generator><language>en</language><lastBuildDate>Sun, 25 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://www.empiresmod.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Empires Mod 2.39.3 Released!</title><link>https://www.empiresmod.com/posts/empiresmod-update-2-39-3/</link><pubDate>Sun, 25 Jan 2026 00:00:00 +0000</pubDate><guid>https://www.empiresmod.com/posts/empiresmod-update-2-39-3/</guid><description>&lt;p&gt;We&amp;rsquo;re happy to announce version 2.39.3 is live on Steam.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Empires</title><link>https://www.empiresmod.com/</link><description>Recent content on Empires</description><generator>Hugo</generator><language>en</language><lastBuildDate>Sat, 21 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://www.empiresmod.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Empires Mod 2.39.4 Released!</title><link>https://www.empiresmod.com/posts/empiresmod-update-2-39-4/</link><pubDate>Sat, 21 Feb 2026 00:00:00 +0000</pubDate><guid>https://www.empiresmod.com/posts/empiresmod-update-2-39-4/</guid><description>&lt;p&gt;We&amp;rsquo;re happy to announce version 2.39.4 is live on Steam.&lt;/p&gt;
+
+
+&lt;iframe src="https://store.steampowered.com/widget/17740/" frameborder="0" width="646" height="190"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Join us on Discord! &lt;a href="https://discord.gg/UH6Sc6B"&gt;https://discord.gg/UH6Sc6B&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id="changelog"&gt;Changelog:&lt;/h1&gt;
+&lt;h2 id="bugfixes"&gt;Bugfixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed a server crash caused by players repairing tanks that have been parented to other entities.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="scriptgame-balance"&gt;Script/Game Balance&lt;/h2&gt;
+&lt;h3 id="infantry"&gt;Infantry&lt;/h3&gt;
+&lt;h4 id="weapons"&gt;Weapons&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Northern Faction&amp;rsquo;s .50cal Rifle
+&lt;ul&gt;
+&lt;li&gt;Increased Cycle Time from 0.25 to 0.3&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Brenodi Empires&amp;rsquo; Burst Rifle
+&lt;ul&gt;
+&lt;li&gt;Reduced Cycle Time from 0.5 to 0.4&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="vehicles"&gt;Vehicles&lt;/h3&gt;
+&lt;h4 id="armor"&gt;Armor&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Transferred Absorbant Heat Dissipation property to Ablative
+&lt;ul&gt;
+&lt;li&gt;Increased Absorbant&amp;rsquo;s Damage to Heat Absorbed from -0.15 to 0.01&lt;/li&gt;
+&lt;li&gt;Reduced Ablative&amp;rsquo;s Damage to Heat Absorbed from 0.01 to -0.15&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Increased Ablative&amp;rsquo;s Regeneration from 1 hp/s to 2 hp/s&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id="chassis"&gt;Chassis&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Artillery
+&lt;ul&gt;
+&lt;li&gt;Reduced Cost from 775 to 650&lt;/li&gt;
+&lt;li&gt;Increased available Weight from 255 to 270&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id="engine"&gt;Engine&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Changed Engine Heat Zones to have better defined identities (See &lt;a href="https://git.neoony.com/empires_public/empires_scripts/-/merge_requests/327"&gt;https://git.neoony.com/empires_public/empires_scripts/-/merge_requests/327&lt;/a&gt;)
+&lt;ul&gt;
+&lt;li&gt;Standard Engine: Low, Medium and High Heat Zones are equal, and critical is small&lt;/li&gt;
+&lt;li&gt;3 Phase: Smaller High Heat Zone, and Smaller Critical Heat Zone&lt;/li&gt;
+&lt;li&gt;Fission: Larger High Heat Zone, and Larger Critical Heat Zone&lt;/li&gt;
+&lt;li&gt;Bio Diesel: Larger Medium Heat Zone&lt;/li&gt;
+&lt;li&gt;Adv. Coolant: Much Larger Low Heat Zone, Much Smaller High Heat Zone, and Much Smaller Critical Heat Zone&lt;/li&gt;
+&lt;li&gt;Gas Turbine: Larger Low Heat Zone, and Smaller Medium Heat Zone&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id="weapons-1"&gt;Weapons&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Railgun
+&lt;ul&gt;
+&lt;li&gt;Reduced Damage from 130 to 120&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;TOW Guided Missile Launcher
+&lt;ul&gt;
+&lt;li&gt;Reduced Cycletime from 1.25 to 1.1&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Empires Mod 2.39.3 Released!</title><link>https://www.empiresmod.com/posts/empiresmod-update-2-39-3/</link><pubDate>Sun, 25 Jan 2026 00:00:00 +0000</pubDate><guid>https://www.empiresmod.com/posts/empiresmod-update-2-39-3/</guid><description>&lt;p&gt;We&amp;rsquo;re happy to announce version 2.39.3 is live on Steam.&lt;/p&gt;
 
 
 &lt;iframe src="https://store.steampowered.com/widget/17740/" frameborder="0" width="646" height="190"&gt;&lt;/iframe&gt;
