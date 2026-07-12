@@ -2,6 +2,7 @@
 title: Frequently asked questions
 author: smithy
 date: "2023-12-21"
+layout: faq
 ---
 
 

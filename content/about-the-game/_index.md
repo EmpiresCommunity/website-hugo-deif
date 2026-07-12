@@ -2,6 +2,7 @@
 title: About the game
 author: smithy
 date: "2023-12-21"
+layout: about-the-game
 ---
 
 ## Overview
